@@ -2,12 +2,14 @@
 
 Permanent identifiers for the RsMetaCheck Catalog, listing software metadata pitfalls and warnings, that are checked by RSMetacheck.
 
-- The catalog is available at: https://anas-elhounsri.github.io/RsMetaCheck-Catalog/
+- The catalog is available at: https://github.com/SoftwareUnderstanding/RsMetaCheck/tree/main/docs
 - The source code for the tool is available at: https://github.com/SoftwareUnderstanding/RsMetaCheck
 
 Maintainers:
 
-- **Maintainer:** [Anas Elhounsri](https://github.com/Anas-Elhounsri)
+- **Maintainer:**
+  - [Daniel Garijo](https://github.com/dgarijo) as main coordinator
+  - [Anas El Hounsri](https://github.com/Anas-Elhounsri) as a PhD candidate supervised by Prof. Daniel Garijo
 
 ## Contact
 
