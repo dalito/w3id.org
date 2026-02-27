@@ -6,7 +6,7 @@ The ontology is intended to be used by public administrations, cultural institut
 The initial plan is to create:
 
 - w3id.org/italia/cultural-heritage/onto for the ontology;
-- w3id.org/italia/cultural-heritage/metadata for metadata about Italian datasets.
+- w3id.org/italia/cultural-heritage/metadata for metadata about Italian cultural heritage datasets.
 
 Some redirect rules will point to GitHub repositories used as semantic assets repositories, maintained by the authors.
 
