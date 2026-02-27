@@ -8,12 +8,14 @@ Built on BFO (ISO/IEC 21838-2:2021), PROV-O (W3C), and QUDT.
 ## Maintainer
 
 **Name:** Ingolf Lepenies
+
 **GitHub:** https://github.com/lepy
+
 **ORCID:** 0000-0001-8199-8666
 
 ## Repository
 
-https://github.com/lepy/sdata-core
+https://github.com/lepy/sdata-ontology
 
 ## License
 
