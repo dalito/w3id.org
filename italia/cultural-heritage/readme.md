@@ -12,5 +12,5 @@ Some redirect rules will point to GitHub repositories used as semantic assets re
 
 Contacts:
 - Antonella Negri: github (https://github.com/antonegri) - email (antonella.negri@cultura.gov.it)
-- Bianca Hermanin de Reichenfeld: github (https://github.com/icdp-digital-library) - email (biancamaria.hermanindereichenfeld@cultura.gov.it)
+- Bianca Hermanin de Reichenfeld: github (https://github.com/icdpgithub) - email (biancamaria.hermanindereichenfeld@cultura.gov.it)
 - Fabrizio Magnani: github (https://github.com/fabriziomagnani) - email (fabrizio.magnani@cultura.gov.it)
