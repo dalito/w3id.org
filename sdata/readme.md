@@ -9,8 +9,8 @@ Built on BFO (ISO/IEC 21838-2:2021), PROV-O (W3C), and QUDT.
 
 **Name:** Ingolf Lepenies
 
-**GitHub:** https://github.com/lepy
-
+**Name:** Ingolf Lepenies<br>
+**GitHub:** https://github.com/lepy<br>
 **ORCID:** 0000-0001-8199-8666
 
 ## Repository
